@@ -41,3 +41,4 @@ gem 'spring',        group: :development
 
 # Add ActiveAdmin gem
 gem 'activeadmin', '~> 1.0.0.pre1'
+gem 'devise'
