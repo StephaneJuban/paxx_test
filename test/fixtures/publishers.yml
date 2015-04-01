@@ -2,12 +2,6 @@
 
 one:
   name: MyString
-  price: 1
-  author_id: 
-  publisher_id: 
 
 two:
   name: MyString
-  price: 1
-  author_id: 
-  publisher_id: 
